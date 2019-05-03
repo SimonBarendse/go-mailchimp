@@ -1,0 +1,8 @@
+github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.0.0-20150928122152-1a9d0bb9f541 h1:nvL7eaZN/Zw5emVOGaOclbLMeFO030UrPtWFTUS0p80=
+github.com/stretchr/objx v0.0.0-20150928122152-1a9d0bb9f541/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v0.0.0-20170526065633-eb84487caee2 h1:A0wIYVM5Gj0s4WTNb5TFuypS5y+bKDSlvc76Vo4Lbvk=
+github.com/stretchr/testify v0.0.0-20170526065633-eb84487caee2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
